@@ -46,7 +46,6 @@ section img.background {
   width: 100vmax;
   z-index: -1;
 }
-
 .header_links{
   color: #1f1f1f;
   font-family: 'Roboto', sans-serif;
@@ -274,6 +273,12 @@ img.socialIcon {
     font-size: 50px;
   }
   .cards{
-    grid-template-columns: 400px;
+    grid-template-columns: 1fr;
+  }
+  .header_links{
+    font-size: small;
+  }
+  .container{
+    grid-template-columns: 1fr;
   }
 }
