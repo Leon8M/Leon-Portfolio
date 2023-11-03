@@ -1,0 +1,4 @@
+{
+  "staticPath": "static/images",
+  "watcherGlob": "**"
+}
