@@ -4,6 +4,7 @@ import tony from "../../static/images/tony.png"
 import mamika from "../../static/images/mamika.png"
 import mazi from "../../static/images/Home.png"
 import url from "../../static/images/url.jpg"
+import port2 from "../../static/images/port2.png"
 
 
 
@@ -11,7 +12,7 @@ const projectList = [
     {
       title: "My Resume Site",
       description: "This is the Github repo containing all code for this site. Though not responsive, it shows skills in Js among others",
-      port_image: port,
+      port_image: port2,
       github: "https://github.com/Leon8M/Portfolio",
       url: "https://github.com/Leon8M/Leon_portfolio_2",
     }, 
