@@ -1,14 +1,88 @@
-# Project Name
-Leon's Portfolio Website
+Project Name: Leon's Portfolio Website
 
-# Project Author
-Leon Munene
+Introduction:
 
-# Languages Used
-React.js with Parcel.js.
+Welcome! I'm Leon Munene, a software engineer with a passion for building user-friendly and efficient software. This website showcases my diverse skills, encompassing web design and app development. Whether you're a fellow developer, a potential collaborator, or just curious, I invite you to explore my projects, dive into my code, and get a glimpse into my journey as a developer.
 
-# Description
-Hello there! I'm Leon Munene, a software engineer with a passion for coding and problem-solving. This is my personal portfolio where I showcase a collection of projects and solutions I've crafted. From Web design to App development, I'm dedicated to creating efficient, user-friendly software. Explore my projects, dive into my code, and get a glimpse of my journey in the world of technology. Whether you're a fellow developer, a potential collaborator, or simply curious, I'm excited to connect with you. Welcome to my coding world!
+Deployed website: https://www.leonmunene.com/
+Final project blog article: [Insert Link to blog article]
+Author's LinkedIn: [https://www.linkedin.com/in/leon-munene-0a49a8238/]
 
-## Contributing
-I welcome contributions and suggestions. If you have ideas for improvements or would like to collaborate on projects, please open an issue or submit a pull request.
+Technologies:
+
+React.js
+Parcel.js
+Installation:
+
+(Skip this section if your website doesn't require local setup)
+
+Clone the repository using Git: git clone https://github.com/Leon8M/Leon-Portfolio.git
+Install dependencies: npm install
+Start the development server: npm start
+Usage:
+
+Visit localhost:3000 in your browser to access the website.
+
+Contributing:
+
+I welcome contributions and suggestions to improve my projects. Please open an issue or submit a pull request if you have ideas or want to collaborate.
+
+Related Projects:
+
+(Include links to related projects you've worked on)
+
+First Iteration: https://github.com/Leon8M/Portfolio
+Second Try: https://github.com/Leon8M/Leon_portfolio_2
+
+Screenshots:
+
+![port2](https://github.com/Leon8M/Leon-Portfolio/assets/106140292/b9d312fc-15d1-483d-a334-a70c01183426)
+
+
+Licensing:
+
+This project is licensed under the MIT License. See LICENSE file for details.
+
+Technical Details and My Story:
+
+Inspiration:
+
+In the ever-evolving landscape of technology and creativity, the need for a personalized platform to showcase one's work, skills, and experiences becomes increasingly crucial. My inspiration to build a portfolio website stemmed from a deep-seated desire to establish a meaningful online presence and share my professional journey with the world.
+As I progressed in my career and accumulated diverse experiences, I recognized the significance of having a dedicated space to encapsulate the essence of who I am professionally. The realization dawned that a well-crafted portfolio serves as more than just a digital resume; it acts as a dynamic canvas to express my passion, expertise, and the unique narrative of my professional evolution.
+
+
+Technical Challenges:
+
+Responsive Design Challenges:
+Addressed challenges related to ensuring a consistent and appealing design across various devices.
+Browser Compatibility:
+Resolved issues related to browser compatibility to guarantee a seamless user experience.
+Integration Challenges:
+Overcame challenges related to integrating third-party APIs for dynamic content.
+
+
+Solutions and Learnings:
+
+Technical Learnings:
+Gained proficiency in React and advanced CSS techniques during the development process.
+Project Management:
+Developed skills in project planning and management, adapting to changing requirements.
+
+
+Next Steps:
+I am in the process of learning Rust. I would like to implement it in some way on my website.
+
+Emotion and Timeline:
+
+Phased Development:
+Broke down the project into manageable phases, focusing on one feature at a time.
+Milestones:
+Set specific milestones for each phase, such as the completion of front-end development, design finalization, and deployment.
+Iterative Refinement:
+Incorporated an iterative development process, allowing for continuous refinement based on feedback.
+Ensured flexibility in the timeline to accommodate unexpected challenges.
+
+
+Conclusion:
+
+I hope you enjoyed exploring my portfolio website. Feel free to contact me through the provided links if you have any questions or feedback.
