@@ -5,8 +5,8 @@
 Welcome! I'm Leon Munene, a software engineer passionate about building user-friendly and efficient software. This website showcases my diverse skills, encompassing web design and app development. Whether you're a fellow developer, a potential collaborator, or just curious, I invite you to explore my projects, dive into my code, and get a glimpse into my journey as a developer.
 
 Deployed website: https://www.leonmunene.com/
-Final project blog article: [Insert Link to blog article]
-Author's LinkedIn: [https://www.linkedin.com/in/leon-munene-0a49a8238/]
+Final project blog article: https://medium.com/@Leonmunene/personal-portfolio-website-a-journey-through-code-40b786a37e0d
+Author's LinkedIn: https://www.linkedin.com/in/leon-munene-0a49a8238/
 
 # Technologies:
 
