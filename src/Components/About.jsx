@@ -77,6 +77,7 @@ const About = () => {
         </ul>
         <hr />
         <p style={{ padding: "1rem 3rem 0" }}>{detailOrQuote}</p>
+        <a href="https://drive.google.com/file/d/1rVNNwqn8_FDMuFkAUP8Z7b6C-LSXHKrL/view?usp=drive_link" id="resume">Resume/CV</a>
       </div>
     </section>
   );
